@@ -1,7 +1,4 @@
 ## Hi there 👋 I am Omkar Khirappawar
-
-# Hi 👋 I'm Khirap Pawar
-
 🎓 B.Tech Engineering Graduate  
 ☁️ Cloud & DevOps Enthusiast  
 🚀 Currently working on **#90DaysOfDevOps**
