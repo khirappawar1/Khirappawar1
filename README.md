@@ -33,6 +33,9 @@
 ## 🚀 Projects
 - **90DaysOfDevOps** – Documenting my DevOps learning journey and hands-on labs.
 
+- 📫 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/omkar-khirappawar-12631b155/
+📧 Email: Omkarkhirappawar98@gmail.com
 ---
 
 ⭐ *Always learning, building, and improving in Cloud & DevOps.*
