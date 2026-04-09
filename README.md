@@ -15,8 +15,10 @@
 - 🐧 Linux  
 - 🌿 Git & GitHub  
 - 🐳 Docker  
-- ☁️ AWS  
-
+- ☁️ AWS
+- Kubernetes
+- Terraform
+- Ansible
 ---
 ## 📜 Certifications
 - **AZ-900: Microsoft Azure Fundamentals**
